@@ -8,7 +8,7 @@
 /Libraries/*
 /Projects/*
 /Shared Projects/*
-mqlcache.dat
+**/mqlcache.dat
 
 
 ## experts 文件
