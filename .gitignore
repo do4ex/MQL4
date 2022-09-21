@@ -1,0 +1,66 @@
+*.ex4
+.DS_Store
+.git
+/Files/*
+/Images/*
+/Logs/*
+/Presets/*
+/Libraries/*
+/Projects/*
+/Shared Projects/*
+**/mqlcache.dat
+
+
+## experts 文件
+/Experts/MACD Sample.mq4
+/Experts/Moving Average.mq4
+
+## include 文件
+/Include/Arrays/*
+/Include/Canvas/*
+/Include/ChartObjects/*
+/Include/Charts/*
+/Include/Controls/*
+/Include/Files/*
+/Include/Indicators/*
+/Include/MovingAverages.mqh
+/Include/Object.mqh
+/Include/stderror.mqh
+/Include/stdlib.mqh
+/Include/StdLibErr.mqh
+/Include/Strings/*
+/Include/Tools/*
+/Include/WinUser32.mqh
+
+## 指标文件
+/Indicators/Accelerator.mq4
+/Indicators/Accumulation.mq4
+/Indicators/Alligator.mq4
+/Indicators/ATR.mq4
+/Indicators/Awesome.mq4
+/Indicators/Bands.mq4
+/Indicators/Bears.mq4
+/Indicators/Bulls.mq4
+/Indicators/CCI.mq4
+/Indicators/Custom Moving Averages.mq4
+/Indicators/Examples/*
+/Indicators/Heiken Ashi.mq4
+/Indicators/Ichimoku.mq4
+/Indicators/iExposure.mq4
+/Indicators/MACD.mq4
+/Indicators/Momentum.mq4
+/Indicators/MyFirstIndicator.mq4
+/Indicators/OsMA.mq4
+/Indicators/Parabolic.mq4
+/Indicators/RSI.mq4
+/Indicators/Stochastic.mq4
+/Indicators/TimeBreakIndicator.mq4
+/Indicators/ZigZag.mq4
+
+
+## Scripts  脚本
+
+/Scripts/Examples/DLL/*
+/Scripts/Examples/Pipes/*
+/Scripts/PeriodConverter.mq4
+
